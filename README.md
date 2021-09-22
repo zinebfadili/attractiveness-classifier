@@ -1,5 +1,5 @@
 # Algorithmic fairness - Fairness in Computer Vision : Building an Attractiveness Classifier
-Repository for the source code, the report and the poster for the project n°26a of the 02456 Deep Learning Course @ Technical University of Denmark.
+Repository for the source code and the report for the project n°26a of the 02456 Deep Learning Course @ Technical University of Denmark.
 
 ## Project Description
 *Deep Learning methods achieve impressive results on all types of tasks. However, when they fail, they often fail in a somewhat systematic way, creating and or amplifying existing social biases. The relatively young and quickly emerging field of Algorithmic Fairness investigates such issues, providing metrics to measure an algorithm's "fairness" and suggests ways to alleviate the potential societal impacts of such systematic failture of ML Systems.*
